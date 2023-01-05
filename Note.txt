@@ -1,0 +1,49 @@
+Quy trình phần mềm là gì? Nó cần phải có ai tham gia vô,làm việc gì, khi nào và cần thế nào?
+	-Các bước cần thực hiện, chuyển giao ở cái kết quả hay sản phẩm cần thiết trong quá trình làm dự án
+	dự án phần mềm -> Quy trình là các bước cần thực hiện để chuyển giao cái kết quả nào đó
+	-Những người có vai trò tương ứng sẽ làm, vd: lập trình viên sẽ làm coding, họ chuyển giao cái mã
+	nguồn, sản phẩm phần mềm chạy đc, cũng là công việc kiểm thử đơn vị, các lỗi họ phát hiện được, tham
+	gia quá trình sửa lỗi, bug fixing, sản phẩm là kết quả của những lỗi được sửa
+	-Phụ thuộc vào quy trình mà chúng ta áp dụng trong dự án và được phản ánh trong kế hoạch phát triển
+	phần mềm - lịch biểu phát triển phần mềm
+	-Muốn thực hiện gì đó cần phải có các bước để làm để đạt được cái trung gian trước khi hoàn thành dự
+	án phần mềm
+
+Trong một dự án phần mềm có nhiều quy trình chúng ta có thể áp dụng, mỗi quy trình sẽ nói lên các bước thực
+hiện để đạt đc cái kết quả nào đó,vd: quy trình đặc tả yêu cầu phần mềm, nhiều bước đặc tả phần mềm và cái
+kết quả là cái đặc tả yêu cầu phần mềm. Mô hình dùng để diễn đạt các quy trình theo một cách thống nhất
+nhất định, theo một cách đơn giản mà nó dễ hiểu
+
+Mô hình thác nước (Waterfall model)
+	-Đặc điểm: mô hình mang tính truyền thống, tập trung vào các công việc chặt chẽ và tuần tự, từng bước
+	sau bước này mới đến bước kia, giai đoạn trước đạt được sản phẩm cho giai đoạn sau
+	-Yêu cầu thực hiện các sản phẩm các tiêu chí nhiều hơn là so với cái quy trình phần mềm Agile, khá
+	chặt chẽ
+	-Phù hợp với những phần mềm có yêu cầu phần mềm tương đối ổn định bởi vì yêu cầu phần mềm thay đổi liên 
+	tục thì chúng ta ko kết thúc được giai đoạn đầu là hoàn thành yêu cầu để đi vào phần mềm để mà chúng ta 
+	tiến hành các giai đoạn khác đc, phải quay lại sửa các yêu cầu nhiều, cập nhật nhiều ở giai đoạn đầu ->
+	không tiến đc vào giai đoạn sau theo cái cái chuẩn của mô hình Waterfall
+	-Pha khác nhau, định nghĩa 1 con số khác nhau cho kết quả mỗi đầu ra
+
+Mô hình truyền thống (RUP)
+	-Đặc điểm: mô hình có xu hướng lặp lại, tại 1 cái giai đoạn, làm nhiều cviec khác nhau (yêu cầu phần mềm,
+	phân tích thiết kế, cài đặt, kiểm thử, chuyển giao,..) mỗi vòng lặp làm nhiều việc khác nhau
+	-Mô hình có 4 pha, mỗi pha tập trung 1 mục tiêu nhất định
+		Inception: mục tiêu thiết lập dự án, khởi tạo dự án
+		Elaboration: đặc tả chi tiết thiết kế phần mềm
+		Construction: cài đặt
+		Transition: chuyển giao phần mềm
+	-Mô hình truyền thống là vì yêu cầu tính chặt chẽ của từng bước khác nhau của dự án, tài liệu nhiều và
+	chi tiết
+
+Mô hình Agile
+	-Nắm được 4 nguyên lý cơ bản, nguyên tắc, giá trị, đặt nặng vào tương tác khách hàng, nhấn mạnh cá nhân,
+	tính con người hơn là quy trình và công cụ. Nhấn mạnh sự tương tác, sản phẩm phần mềm chạy đc, nhấn
+	mạnh khả năng đáp ứng thay đổi của dạng phần mềm
+	-Chuyển giao sẩn phẩm phần mềm liên tục, chất lượng sản phẩm phần mềm, cũng có hệ tư tưởng lặp lại
+	nhưng tăng dần
+	-Scrum lặp lại sprint (cố định thời gian), một số roles căn bản
+	-XP triết lý phát triển phần mềm, làm cái gì tốt thì phải tốt hơn nữa, tập trung tối đa, đem lại hiệu
+	quả cao hơn nữa, lập trình đôi, kiểm thử nhanh, chất lượng tốt hơn, cải thiện thời gian sửa lỗi và
+	kiểm thử
+		
